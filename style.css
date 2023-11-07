@@ -118,3 +118,13 @@ body {
 		rgba(140, 218, 141, 0.2) 100%
 	);
 }
+
+.category.voice-acting {
+	background: linear-gradient(
+		135deg,
+		rgba(224, 41, 226, 0.2) 0%,
+		rgba(242, 72, 101, 0.2) 33%,
+		rgba(208, 218, 140, 0.2) 67%,
+		rgba(164, 218, 140, 0.2) 100%
+	);
+}
